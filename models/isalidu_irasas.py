@@ -1,5 +1,5 @@
 from models.irasas import Irasas
 
 
-class IslaiduIrasas(Irasas):
+class Islaiduirasas(Irasas):
     ...

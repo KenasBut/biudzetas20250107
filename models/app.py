@@ -1,0 +1,2 @@
+biudzetas = biudzetas()
+
